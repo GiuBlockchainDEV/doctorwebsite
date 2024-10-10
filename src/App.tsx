@@ -225,7 +225,7 @@ export default function App() {
                 </div>
               </div>
               <div className="mt-10 lg:mt-0 lg:w-1/2">
-                <img src="https://ideogram.ai/assets/image/lossless/response/AANZ_D6xTU6QzpVh42ICRA" alt="Dr. Neroni" className="rounded-lg shadow-lg" />
+                <img src="https://i.ibb.co/0VsnNm4/Photoroom-20241010-085517.png" alt="Dr. Neroni" className="rounded-lg shadow-lg" />
               </div>
             </div>
           </div>
